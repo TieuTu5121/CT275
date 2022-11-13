@@ -8,7 +8,7 @@
     <title><?= $data['page_title'] ?></title>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Spartan:wght@300;400;500;700;900&amp;display=swap" />
-    <link rel="shortcut icon" type="image/png" href="<?= ASSETS . THEME ?>images/fav.png" />
+    <link rel="shortcut icon" type="image/png" href="<?= ASSETS . THEME ?>images/logo-removebg.png" />
     <!--build:css css/styles.min.css-->
     <link rel="stylesheet" href="<?= ASSETS . THEME ?>css/bootstrap.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
@@ -74,7 +74,7 @@
 
 
                     </ul><a class="menu__wrapper__logo" href="<?= ROOT ?>"><img
-                            src="<?= ASSETS . THEME ?>images/logo.png" alt="Logo" /></a>
+                            src="<?= ASSETS . THEME ?>images/logo-removebg.png" alt="Logo-logo-removebg" /></a>
                     <ul class="navigator_part -right">
 
                         <li><a href="<?= ROOT . 'contact_us/' ?>">Liên hệ</a></li>

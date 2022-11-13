@@ -1,7 +1,7 @@
 <div class="footer-one">
     <div class="container">
         <div class="footer-one__header">
-            <div class="footer-one__header__logo"><a href="<?= ROOT ?>"><img src="<?= ASSETS . THEME ?>images/logo.png"
+            <div class="footer-one__header__logo"><a href="<?= ROOT ?>"><img src="<?= ASSETS . THEME ?>images/logo-removebg.png"
                         alt="Logo" /></a></div>
 
             <div class="footer-one__header__social">
@@ -26,7 +26,7 @@
                         <h5 class="footer-title">Thông tin liên lạc</h5>
                         <p>Địa chỉ:<span>Đường 3/2, phường Xuân Khánh, Ninh Kiều, Cần Thơ</span></p>
                         <p>Số điện thoại:<span>+84 794 201 716| +84 791 33 011</span></p>
-                        <p>Email:<span>Eliah@gmail.com</span></p>
+                        <p>Email:<span>TopTruyen@gmail.com</span></p>
                         <p>Mở cửa:<span>8.00am - 11.00.pm</span></p>
                     </div>
                 </div>
